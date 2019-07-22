@@ -1,0 +1,11 @@
+C:\Users\sony\RiderProjects\ExamPaper\ExamPaper1\bin\Debug\netcoreapp2.2\ExamPaper1.deps.json
+C:\Users\sony\RiderProjects\ExamPaper\ExamPaper1\bin\Debug\netcoreapp2.2\ExamPaper1.runtimeconfig.json
+C:\Users\sony\RiderProjects\ExamPaper\ExamPaper1\bin\Debug\netcoreapp2.2\ExamPaper1.runtimeconfig.dev.json
+C:\Users\sony\RiderProjects\ExamPaper\ExamPaper1\bin\Debug\netcoreapp2.2\ExamPaper1.dll
+C:\Users\sony\RiderProjects\ExamPaper\ExamPaper1\bin\Debug\netcoreapp2.2\ExamPaper1.pdb
+C:\Users\sony\RiderProjects\ExamPaper\ExamPaper1\obj\Debug\netcoreapp2.2\ExamPaper1.csprojAssemblyReference.cache
+C:\Users\sony\RiderProjects\ExamPaper\ExamPaper1\obj\Debug\netcoreapp2.2\ExamPaper1.csproj.CoreCompileInputs.cache
+C:\Users\sony\RiderProjects\ExamPaper\ExamPaper1\obj\Debug\netcoreapp2.2\ExamPaper1.AssemblyInfoInputs.cache
+C:\Users\sony\RiderProjects\ExamPaper\ExamPaper1\obj\Debug\netcoreapp2.2\ExamPaper1.AssemblyInfo.cs
+C:\Users\sony\RiderProjects\ExamPaper\ExamPaper1\obj\Debug\netcoreapp2.2\ExamPaper1.dll
+C:\Users\sony\RiderProjects\ExamPaper\ExamPaper1\obj\Debug\netcoreapp2.2\ExamPaper1.pdb

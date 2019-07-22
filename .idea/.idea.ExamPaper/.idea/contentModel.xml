@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\sony\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sony\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_ExamPaper.-593132978.00" t="ExcludeRecursive" />
+    <e p="C:\Users\sony\RiderProjects\ExamPaper" t="IncludeFlat">
+      <e p="ExamPaper.sln" t="IncludeFlat" />
+      <e p="ExamPaper1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="entity" t="Include">
+          <e p="People.cs" t="Include" />
+        </e>
+        <e p="ExamPaper1.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="ExamPaper1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="ExamPaper2" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ExamPaper2.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="ExamPaper2.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
